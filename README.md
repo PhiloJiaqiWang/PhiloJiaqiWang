@@ -2,7 +2,7 @@
 
 I am a PhD researcher at the University of Illinois Urbana–Champaign. I design and study human-centered AI agents for learning, behavior, and interactive experiences.
 
-My work sits at the intersection of **AI engineering**, **human–computer interaction**, and **learning sciences**—from building working systems to evaluating how people actually use them.
+My work sits at the intersection of **engineering**, **human–computer interaction**, and **learning sciences**—from building working systems to evaluating how people actually use them.
 
 ## What I work on
 
