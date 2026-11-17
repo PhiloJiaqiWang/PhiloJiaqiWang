@@ -1,6 +1,6 @@
 # Hi, I'm Philo (Jiaqi) Wang
 
-I am a PhD researcher and applied AI developer at the University of Illinois Urbana–Champaign. I design and study human-centered AI agents for learning, behavior, and interactive experiences.
+I am a PhD researcher at the University of Illinois Urbana–Champaign. I design and study human-centered AI agents for learning, behavior, and interactive experiences.
 
 My work sits at the intersection of **AI engineering**, **human–computer interaction**, and **learning sciences**—from building working systems to evaluating how people actually use them.
 
