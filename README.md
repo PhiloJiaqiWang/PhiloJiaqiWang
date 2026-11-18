@@ -1,37 +1,37 @@
 # Hi, I'm Philo (Jiaqi) Wang
 
-I am a PhD researcher at the University of Illinois Urbana–Champaign. I design and study human-centered AI agents for learning, behavior, and interactive experiences.
+I am a PhD researcher at the University of Illinois Urbana–Champaign. I build and study interactive systems for learning, collaboration, behavior change, and digital experiences.
 
-My work sits at the intersection of **engineering**, **human–computer interaction**, and **learning sciences**—from building working systems to evaluating how people actually use them.
+My work sits at the intersection of **engineering**, **human–computer interaction**, and **learning sciences**—from developing research prototypes to evaluating how people actually use them.
 
 ## What I work on
 
-- LLM and multi-agent systems
-- Human–AI interaction and behavioral evaluation
+- Interactive systems for learning and behavior change
 - Collaborative learning and educational technology
-- Games for AI and media literacy
+- Behavioral measurement and interaction analysis
+- Games for media and digital literacy
 - Co-design and human-subject research
 
 ## Selected work
 
-- **Uptake Agent** — AI peer agents that support collaborative learning  
+- **Uptake Agent** — an experimental system for studying collaborative behaviors and idea development  
   `ACCESS RESTRICTED DURING ACTIVE STUDY`
-- **LLM-as-a-Judge for Behavioral Annotation** — evaluating LLMs for discourse and behavioral coding  
+- **LLM-as-a-Judge for Behavioral Annotation** — computational approaches to discourse and behavioral coding  
   `MANUSCRIPT UNDER REVIEW`
-- **AI Playtesters** — LLM agents as diagnostic instruments for game design  
+- **AI Playtesters** — comparing automated playtesting trajectories with human gameplay behavior  
   `MANUSCRIPT IN REVISION`
-- **ActionCoach** — conversational AI for health-support training  
+- **ActionCoach** — a counselor-informed research system for health-behavior support  
   `ACCESS RESTRICTED DURING ACTIVE STUDY`
 - **[Unveil](https://unveilgame20-production.up.railway.app/)** — a narrative game about misinformation literacy
-- **[Uncode](https://philo99.itch.io/uncode)** — a narrative game about AI literacy
+- **[Uncode](https://philo99.itch.io/uncode)** — an interactive learning game about everyday technologies
 
 See the full project portfolio at **[philojiaqiwang.github.io/philo](https://philojiaqiwang.github.io/philo/)**.
 
 ## Tools and methods
 
-**Engineering:** Python, JavaScript, C#, SQL, R, FastAPI, Next.js, Unity, PyTorch, Hugging Face, vLLM, AutoGen, LoRA, RAG
+**Engineering:** Python, JavaScript, C#, SQL, R, FastAPI, Next.js, Unity, data pipelines, and research interfaces
 
-**Research:** experimental design, interviews, co-design, qualitative coding, behavioral analytics, mixed-methods evaluation
+**Research:** experimental design, interviews, co-design, qualitative coding, behavioral analytics, and mixed-methods evaluation
 
 ## Connect
 
